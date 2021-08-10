@@ -12,12 +12,15 @@ This repository exists in two versions, a python notebook and a pythonscript.
 Left-Click on a dot to drag the segmentation at that point:
 ![](readme-img/1.PNG)
 
-Drag the dot anywhere you want an double click to finish segmentation:
+Drag the dot anywhere you want:
 ![](readme-img/2.PNG)
 
-Press "d" to see the edited segmentation:
+Double click to finish segmentation:
 ![](readme-img/3.PNG)
 
+
+Press "d" to see the edited segmentation:
+![](readme-img/4.PNG)
 
 
 **inspiration taken from** https://github.com/saoalo/manual_polygon_drawer
