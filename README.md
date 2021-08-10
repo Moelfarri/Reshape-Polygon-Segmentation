@@ -11,4 +11,4 @@ This repository exists in two versions, a python notebook and a pythonscript.
 **Small Demo**
 
 
-inspiration taken from https://github.com/saoalo/manual_polygon_drawer
+**inspiration taken from** https://github.com/saoalo/manual_polygon_drawer
