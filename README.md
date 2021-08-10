@@ -4,11 +4,20 @@ This algorithm uses OpenCV to demonstrate an example of how to let a user reshap
 This repository exists in two versions, a python notebook and a pythonscript. 
 
 **How To Use The Interactive Window**
-- Leftclick on green dots to modify segmentation at that particular point (enables EDIT_MODE)
+- Left-click on green dots to modify segmentation at that particular point (enables EDIT_MODE)
 - Double leftclick to verify final placement (disables EDIT_MODE)
 - Press "d" when done and to see your final segmentation result
 
 **Small Demo**
+Left-Click on a dot to drag the segmentation at that point:
+![](readme-img/1.PNG)
+
+Drag the dot anywhere you want an double click to finish segmentation:
+![](readme-img/2.PNG)
+
+Press "d" to see the edited segmentation:
+![](readme-img/3.PNG)
+
 
 
 **inspiration taken from** https://github.com/saoalo/manual_polygon_drawer
